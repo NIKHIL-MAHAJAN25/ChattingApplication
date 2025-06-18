@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<style name="circleview">
+    <item name="cornerFamily">rounded</item>
+    <item name="cornerSize">50%</item>
+</style>
+    <style name="CardShapeTopRounded" parent="ShapeAppearance.MaterialComponents.SmallComponent">
+
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSizeTopLeft">0dp</item>
+        <item name="cornerSizeTopRight">0dp</item>
+        <item name="cornerSizeBottomLeft">40dp</item>
+        <item name="cornerSizeBottomRight">40dp</item>
+    </style>
+    <style name="left" parent="ShapeAppearance.MaterialComponents.SmallComponent">
+
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSizeTopLeft">0dp</item>
+        <item name="cornerSizeTopRight">60dp</item>
+        <item name="cornerSizeBottomLeft">60dp</item>
+        <item name="cornerSizeBottomRight">60dp</item>
+    </style>
+    <style name="right" parent="ShapeAppearance.MaterialComponents.SmallComponent">
+
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSizeTopLeft">60dp</item>
+        <item name="cornerSizeTopRight">0dp</item>
+        <item name="cornerSizeBottomLeft">60dp</item>
+        <item name="cornerSizeBottomRight">60dp</item>
+    </style>
+</resources>

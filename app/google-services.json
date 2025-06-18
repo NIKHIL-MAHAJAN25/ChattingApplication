@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "459414525390",
+    "project_id": "chattingapplication-dd1cb",
+    "storage_bucket": "chattingapplication-dd1cb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459414525390:android:9c7506a2363e51251cc79f",
+        "android_client_info": {
+          "package_name": "com.nikhil.chattingapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz_H8XyPYDQ2kfrQtgir3s9HYRfcoiOj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
