@@ -137,7 +137,7 @@ class ChatFragment : Fragment() {
             .orderBy("timestamp")
             .addSnapshotListener { snapshots, error ->
                 if (error != null || snapshots == null) {
-                    Toast.makeText(requireContext(), "Error loading messages", Toast.LENGTH_SHORT).show()
+                    Toast.makeText(requireContext(), "Error", Toast.LENGTH_SHORT).show()
                     return@addSnapshotListener
                 }
 
